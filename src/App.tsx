@@ -873,7 +873,7 @@ function App() {
               }`}>Technical Lead | Java & Microservices Specialist</p>
               <p className={`text-sm ${
                 theme === 'dark' ? 'text-slate-400' : 'text-gray-600'
-              }`}>© 2025 All rights reserved</p>
+              }`}>© 2026 All rights reserved</p>
             </div>
           </div>
         </footer>
